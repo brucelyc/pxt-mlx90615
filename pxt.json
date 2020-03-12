@@ -1,0 +1,17 @@
+{
+    "name": "pxt-mlx90615",
+    "version": "0.0.1",
+    "description": "MLX90615 extension for Micro:bit",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "mlx90615.ts",
+        "_locales/zh/mlx90615-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

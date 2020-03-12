@@ -1,0 +1,6 @@
+{
+    "MLX90615|block": "MLX90615",
+    "MLX90615.temperature|block": "Temperature|%loc",
+    "MLX90615.TemperatureLocation.Object|block": "Object",
+    "MLX90615.TemperatureLocation.Ambiant|block": "Ambiant"
+}

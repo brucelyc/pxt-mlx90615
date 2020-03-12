@@ -1,0 +1,6 @@
+{
+    "MLX90615|block": "紅外線溫測",
+    "MLX90615.temperature|block": "%loc 的溫度值",
+    "MLX90615.TemperatureLocation.Object|block": "目標物",
+    "MLX90615.TemperatureLocation.Ambiant|block": "周圍"
+}
